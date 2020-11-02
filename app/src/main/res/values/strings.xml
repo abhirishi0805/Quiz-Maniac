@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz Maniac</string>
+    <string name="sports">SPORTS</string>
+    <string name="history">HISTORY</string>
+    <string name="science">SCIENCE</string>
+    <string name="gk">GK</string>
+    <string name="cinema">CINEMA</string>
+    <string name="literature">LITERATURE</string>
+    <string name="maniac">MANIAC</string>
+    <string name="quiz">QUIZ</string>
+    <string name="instruction">... This quiz consists of 10 questions.\n\n... Each question has 4 options out of which only one is correct.\n\n... You would be awarded +2 for each coorect answer, -1 for each wrong answer and 0 for any unanswered question.\n\n... A total of 90 seconds would be alloted for the quiz.\n\n... You may return at any time to the skipped questions.</string>
+    <string name="let_s_quiz_up">LET\'S QUIZ UP</string>
+    <string name="instructions_before_you_proceed">Instructions before you proceed :</string>
+    <string name="q">Q.</string>
+    <string name="unattempted">Unmarked : </string>
+    <string name="previous">PREVIOUS</string>
+    <string name="answered">Marked : </string>
+    <string name="next">NEXT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="scored">You scored %d out of 20</string>
+</resources>
